@@ -2,23 +2,23 @@
 
 
 =======
-## Target Group:**   
+## Target Group:
 Discerning Pizza Lovers
 
-## Goal:** 
+## Goal:
 
 Create a unique, elegant, easy-to-use experience.
 
-### Needs:** 
+### Needs:
 An online experience to enhance the home (or office) PIZZA experience
 
-## **Value:** 
+## **Value:
 
 It is easy, convenient, and special to shop with advanced information and samples for those with discerning tastes. Samples will fit the buying pattern and preferences of the customer.
 
 The application must have a unique feature where users can play with the price and location range using a two-sided slider making it extremely convenient.
 
-## **Key Features:**
+## **Key Features:
 
  Learn about pizzas and regions, and shop, buy, and get social about pizza.
 
