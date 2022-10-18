@@ -1,6 +1,6 @@
 # OnlinePizzaa Store 
 
-!(images/Screenshot 2022-10-18 at 10.07.35 AM.png)
+![](images/Screenshot 2022-10-18 at 10.07.35 AM.png)
 
 ## Target Group:
 Discerning Pizza Lovers
