@@ -1,7 +1,8 @@
 # OnlinePizzaa Store 
 
-![[Online](https://onlinepizzaa.azurewebsites.net/)]
-![](images/Screenshot 2022-10-18 at 10.07.35 AM.png)
+![[Online](https://onlinepizzaa.azurewebsites.net/)
+
+![](/images/Screenshot 2022-10-18 at 10.07.35 AM.png)
 
 ## Target Group:
 Discerning Pizza Lovers
